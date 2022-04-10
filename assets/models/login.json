@@ -1,0 +1,26 @@
+{
+  "Message": "Success",
+  "IsSuccess": true,
+  "Data": {
+    "Id": 90,
+    "Serial": "2a34cf1b-bd1a-4625-bec6-ab0e9a72d932",
+    "Name": "Test",
+    "NameAr": null,
+    "Password": "",
+    "CreateDate": "\/Date(1643128409197)\/",
+    "Img": null,
+    "IsActive": true,
+    "Gender": 0,
+    "Phone": "0992920902",
+    "SetNewPassword": false,
+    "IsDeleted": false,
+    "Role": 6,
+    "Email": "std1@mail.com",
+    "LastOnline": "\/Date(1643309184293)\/",
+    "DefaultSchoolLogin": false,
+    "Level": 17,
+    "SchoolId": 15,
+    "State": 0
+  },
+  "Code": 1
+}
